@@ -1,0 +1,4 @@
+initially we have facebook for the communication purpose.
+in this we can send messages,emojis etc.
+we can post wanted stuff which will gona appear to our friends list
+this media has also security that means it gives full privacy to the users.
